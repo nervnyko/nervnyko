@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nervnyko
+- 👀 I’m interested in learning more about coding.
+- 🌱 I’m currently learning C#, html, CSS, JS.
